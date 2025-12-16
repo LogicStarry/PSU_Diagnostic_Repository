@@ -1,0 +1,23 @@
+<Updates>
+ <ApplicationName>{AnyApplication}</ApplicationName>
+ <ApplicationVersion>1.0.0</ApplicationVersion>
+ <Checksum>true</Checksum>
+ <SHA1>388f09d4ed13bc717d83cca6ed4a0245985a2dcf</SHA1>
+ <MetadataName>2025-12-15-1536_meta.7z</MetadataName>
+ <PackageUpdate>
+  <Name>com.vendor.product</Name>
+  <DisplayName>The root component</DisplayName>
+  <Description>Install The PSU PMBus Diagnostic Tool.</Description>
+  <Version>2.6.0</Version>
+  <ReleaseDate>2025-12-12</ReleaseDate>
+  <Default>script</Default>
+  <Script>installscript.qs</Script>
+  <UpdateFile OS="Any" CompressedSize="29621089" UncompressedSize="134862507"/>
+  <DownloadableArchives>iconengines.7z,imageformats.7z,platforms.7z,printsupport.7z,styles.7z,translations.7z,content.7z</DownloadableArchives>
+  <UserInterfaces>page.ui</UserInterfaces>
+  <Licenses>
+   <License file="license.txt" name="Beer Public License Agreement"/>
+  </Licenses>
+  <SHA1>084303f3a336c178c975539494421d31776612ee</SHA1>
+ </PackageUpdate>
+</Updates>
